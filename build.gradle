@@ -24,7 +24,7 @@ repositories {
 
 dependencies {
     compileOnly 'org.spigotmc:spigot-api:1.14.4-R0.1-SNAPSHOT'
-    compileOnly 'com.minecraftdimensions:bungeesuite-teleport:1.0'
+    compileOnly 'com.minecraftdimensions.bungeesuiteteleports:bungeesuite-teleports:1.0'
 }
 
 group = 'com.minecraftdimensions.bungeesuitewarps'

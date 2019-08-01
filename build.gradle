@@ -27,7 +27,7 @@ dependencies {
     compileOnly 'com.minecraftdimensions:bungeesuite-teleport:1.0'
 }
 
-group = 'com.minecraftdimensions'
+group = 'com.minecraftdimensions.bungeesuitewarps'
 version = '1.0-SNAPSHOT'
 description = 'BungeesuiteWarps'
 sourceCompatibility = '1.8'
